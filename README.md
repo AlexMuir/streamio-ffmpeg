@@ -1,3 +1,5 @@
+This is a fork to get tests passing and puzzle out why logging isn't working for me. 
+
 Streamio FFMPEG
 ===============
 
